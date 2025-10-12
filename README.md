@@ -1,4 +1,4 @@
-# 👋 Hello! I'm @matiasjacob25 (Jacob Matias)
+# 👋 Heyo! I'm @matiasjacob25 (Jacob Matias)
 I'm a Computer Science New Grad from the **University of Toronto**.
 
 I'm passionate about **solving complex problems**, exploring innovative ways to **leverage data**, and collaborating with others to **turn ideas into tools and software with real-world impact**.
